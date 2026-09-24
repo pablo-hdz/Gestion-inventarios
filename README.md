@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestión de Inventarios - SOFT-10
 
 Proyecto grupal del curso SOFT-10 (Estructuras de Datos), CENFOTEC.
@@ -15,3 +16,7 @@ Primer avance: implementación de ListaProductos como lista enlazada simple.
 javac src/main/java/com/cenfotec/inventario/*.java -d bin
 java -cp bin com.cenfotec.inventario.Main
 ```
+=======
+# Gestion-inventarios
+Sistema de gestión de inventario y ventas en línea implementado en Java. Estructura de datos: lista enlazada simple (ListaProductos) con operaciones de inserción, modificación, eliminación y reporte de costos. CLI interactiva. Proyecto académico funcional — SOFT-10, CENFOTEC.
+>>>>>>> 8733084e071a2ace88fe765c421affc4e87981b6
